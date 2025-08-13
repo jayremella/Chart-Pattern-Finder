@@ -1,0 +1,8 @@
+sma_window: 20
+ema_window: 20
+rsi_period: 14
+macd_fast: 12
+macd_slow: 26
+macd_signal: 9
+bollinger_window: 20
+bollinger_std: 2
